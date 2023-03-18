@@ -1,0 +1,17 @@
+{
+  "name": "gpt-api",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "chatBot.js",
+  "scripts": {
+    "dev": "node chatBot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1"
+  }
+}
